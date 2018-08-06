@@ -1,3 +1,3 @@
 data(cars)
 plot(cars)
-plot(cars, col="orange")
+plot(cars, col="yellow")
